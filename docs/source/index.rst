@@ -12,7 +12,7 @@ Bienvenido al SIA - Manual de operaciones
 
 
 
-Indices and tables
+Indices y tablas
 ==================
 
 * :ref:`genindex`
